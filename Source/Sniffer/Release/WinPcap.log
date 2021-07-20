@@ -1,0 +1,7 @@
+﻿  pcap_next_ex.cpp
+pcap_next_ex.cpp(178): warning C4348: 'get_device_by_number': redefinition of default parameter: parameter 2
+  pcap_next_ex.cpp(13): note: see declaration of 'get_device_by_number'
+  Generating code
+  All 282 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WinPcap.vcxproj -> D:\STORE\Универ\3_course\Networks\Sniffer\Source\Sniffer\Release\WinPcap.exe
