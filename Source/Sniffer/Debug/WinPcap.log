@@ -1,4 +1,0 @@
-﻿  pcap_next_ex.cpp
-d:\store\универ\3_course\networks\sniffer\source\sniffer\pcap_next_ex.cpp(178): warning C4348: 'get_device_by_number': redefinition of default parameter: parameter 2
-  d:\store\универ\3_course\networks\sniffer\source\sniffer\pcap_next_ex.cpp(13): note: see declaration of 'get_device_by_number'
-  WinPcap.vcxproj -> D:\STORE\Универ\3_course\Networks\Sniffer\Source\Sniffer\Debug\WinPcap.exe
